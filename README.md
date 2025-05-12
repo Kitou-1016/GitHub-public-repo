@@ -1,4 +1,6 @@
-這是一個可以取得並渲染 GitHub Repositories 內容出來的網頁，使用 TypeScript 撰寫，
+這是一個可以取得並渲染 GitHub Repositories 內容出來的網頁，使用 TypeScript 撰寫。
+
+整體網頁的構思與架構是在網路上學習到的，我藉由這個專案來練習。
 
 使用者輸入個人 GitHub 名稱後，內容便會在下方渲染出來，
 
