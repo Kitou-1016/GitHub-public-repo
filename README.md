@@ -13,3 +13,7 @@
 ・給 JS 的型態加上了 TS 的型別
 
 ・設計了如果找不到資料就顯示 404 畫面
+
+![image](https://github.com/user-attachments/assets/f23da502-9805-49b7-bd77-6882e0ba3d6a)
+
+![image](https://github.com/user-attachments/assets/a4044d84-b2f1-4cbc-b984-81aad9839d21)
